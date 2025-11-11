@@ -1,4 +1,4 @@
-# duleeeee-resume
+# 👋 printf("Hello!\n");
 
 ## 🧑‍🎓 PROFILE
 
@@ -8,14 +8,21 @@
 - **🗂️ GitHub:** [github.com/duleeeee](https://github.com/duleeeee)
 - **🧑‍💻 BLOG:** [friedlemon.tistory.com](https://friedlemon.tistory.com/)
 
+## 🙋‍♂️ Introduce (Learning Goals)
+
+블록체인 보안과 함께 악성코드 분석에 관심이 많은 이동욱입니다. <br>
+솔리디티 학습을 통해 스마트 컨트랙트의 취약점 분석과 <br>
+어셈블리 학습을 통해 악성코드의 문제를 발견하여 <br>
+비정상의 정상화를 꿈꾸고 있습니다.
+
 ## 🛠️ SKILLS
 
-| 언어(Language)     | 개발 도구/환경 | 프레임워크/라이브러리 |
-| :----------------- | :------------- | :-------------------- |
-| C / C++            | VS Code, Linux | —                     |
-| Python             | VS Code        | Pandas                |
-| Assembly           | gdb            | —                     |
-| Solidity (학습 중) | Remix IDE      | —                     |
+| 언어(Language) | 개발 도구/환경 | 프레임워크/라이브러리 |
+| :------------- | :------------- | :-------------------- |
+| C / C++        | VS Code, Linux | —                     |
+| Python         | VS Code        | Pandas                |
+| Assembly       | gdb            | —                     |
+| Solidity       | Remix IDE      | —                     |
 
 ## 🚀 PROJECT EXPERIENCES
 
